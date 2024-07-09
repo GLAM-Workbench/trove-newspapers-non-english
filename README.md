@@ -24,5 +24,5 @@ The dataset contains the following columns:
 
 ## `non-english-newspapers.md`
 
-This is [a markdown-formatted list](non-english-newspapers.md) created by grouping the dataset by newspaper title. It includes details of the main languages in each newspaper.
+This is [a markdown-formatted list](https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/non-english-newspapers.md) created by grouping the dataset by newspaper title. It includes details of the main languages in each newspaper.
 
