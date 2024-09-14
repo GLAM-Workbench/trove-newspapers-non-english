@@ -3,7 +3,7 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Portuguese | pt | 0.9888888888888889 |
+| Portuguese | pt | 0.9191919191919192 |
 
 ### 2. [Adelaider Deutsche Zeitung (SA : 1851 - 1862)](http://nla.gov.au/nla.news-title277)
 
@@ -15,7 +15,7 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Yiddish | yi | 1.0 |
+| Hebrew | he | 1.0 |
 
 ### 4. [Australijos Lietuvis = The Australian Lithuanian (SA : 1948 - 1956)](http://nla.gov.au/nla.news-title1876)
 
@@ -33,27 +33,26 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Malay (macrolanguage) | ms | 0.8913043478260869 |
-| Indonesian | id | 0.10869565217391304 |
+| Indonesian | id | 0.99 |
 
 ### 7. [Chinese Republic News (Sydney, NSW : 1914 - 1937)](http://nla.gov.au/nla.news-title1186)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.9285714285714286 |
+| Chinese | zh | 0.97 |
 
 ### 8. [Chinese Times (Melbourne, Vic. : 1902 - 1922)](http://nla.gov.au/nla.news-title705)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.9183673469387755 |
+| Chinese | zh | 1.0 |
 
 ### 9. [Chung Wah News (Perth, WA : 1981 - 1987)](http://nla.gov.au/nla.news-title1383)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| English | en | 0.5666666666666667 |
-| Chinese | zh | 0.3888888888888889 |
+| English | en | 0.5 |
+| Chinese | zh | 0.49 |
 
 ### 10. [Der Australische Spiegel = The Australian Mirror (Perth, WA : 1952)](http://nla.gov.au/nla.news-title1385)
 
@@ -79,47 +78,46 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| German | de | 0.7040816326530612 |
-| English | en | 0.29591836734693877 |
+| German | de | 0.71 |
+| English | en | 0.29 |
 
 ### 14. [Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)](http://nla.gov.au/nla.news-title1576)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| German | de | 0.9895833333333334 |
+| German | de | 0.99 |
 
 ### 15. [Dutch Australian Weekly (Sydney, NSW : 1951 - 1993)](http://nla.gov.au/nla.news-title1044)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Dutch | nl | 0.9696969696969697 |
+| Dutch | nl | 0.9795918367346939 |
 
 ### 16. [Dutch Weekly (Sydney, NSW : 1993 - 2004)](http://nla.gov.au/nla.news-title1045)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Dutch | nl | 0.9191919191919192 |
+| Dutch | nl | 0.9393939393939394 |
 | English | en | 0.06060606060606061 |
 
 ### 17. [Echo : Polski Tygodnik Niezalezny (Perth, WA : 1950 - 1952)](http://nla.gov.au/nla.news-title1384)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Polish | pl | 0.91 |
-| English | en | 0.09 |
+| Polish | pl | 0.88 |
+| English | en | 0.12 |
 
 ### 18. [Eco Italiano (Perth, WA : 1958 - 1959)](http://nla.gov.au/nla.news-title1387)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Italian | it | 1.0 |
+| Italian | it | 0.9795918367346939 |
 
 ### 19. [Guang yi hua bao = The Chinese Australian Herald (Sydney, NSW : 1894 - 1923)](http://nla.gov.au/nla.news-title704)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.8541666666666666 |
-| Western Frisian | fy | 0.0625 |
+| Chinese | zh | 1.0 |
 
 ### 20. [Hellenic Echo (Perth, WA : 1967 - 1968)](http://nla.gov.au/nla.news-title1389)
 
@@ -131,7 +129,7 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Italian | it | 0.97 |
+| Italian | it | 0.96 |
 
 ### 22. [Il Giornale Italiano (Sydney, NSW : 1932 - 1940)](http://nla.gov.au/nla.news-title279)
 
@@ -151,15 +149,15 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| English | en | 0.8333333333333334 |
-| Italian | it | 0.16666666666666666 |
+| English | en | 0.8 |
+| Italian | it | 0.15 |
 
 ### 25. [Italian Bulletin of Commerce (Sydney, NSW : 1929 - 1935)](http://nla.gov.au/nla.news-title1603)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| English | en | 0.8936170212765957 |
-| Italian | it | 0.10638297872340426 |
+| English | en | 0.85 |
+| Italian | it | 0.14 |
 
 ### 26. [Italo-Australian (Sydney, NSW : 1927 - 1940)](http://nla.gov.au/nla.news-title1595)
 
@@ -171,14 +169,16 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Japanese | ja | 0.9375 |
+| Japanese | ja | 0.96 |
 
 ### 28. [L'Italo-Australiano = The Italo-Australian (Surry Hills, NSW : 1885)](http://nla.gov.au/nla.news-title1596)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Italian | it | 0.6984126984126984 |
-| Maltese | mt | 0.20634920634920634 |
+| Italian | it | 0.7021276595744681 |
+| Latin | la | 0.14893617021276595 |
+| Aragonese | an | 0.06382978723404255 |
+| Quechua | qu | 0.05319148936170213 |
 
 ### 29. [L'Italo-Australiano = The Italo-Australian (Sydney, NSW : 1905 - 1909)](http://nla.gov.au/nla.news-title1597)
 
@@ -203,11 +203,11 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Modern Greek (1453-) | el | 0.35714285714285715 |
-| English | en | 0.22448979591836735 |
-| Portuguese | pt | 0.15306122448979592 |
-| French | fr | 0.08163265306122448 |
-| Spanish | es | 0.061224489795918366 |
+| Modern Greek (1453-) | el | 0.3333333333333333 |
+| English | en | 0.23232323232323232 |
+| Portuguese | pt | 0.16161616161616163 |
+| French | fr | 0.08080808080808081 |
+| Spanish | es | 0.06060606060606061 |
 
 ### 33. [Meie Kodu - Our Home (Sydney, NSW : 1949 - 1956)](http://nla.gov.au/nla.news-title280)
 
@@ -232,9 +232,10 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Danish | da | 0.7528089887640449 |
-| Swedish | sv | 0.11235955056179775 |
-| English | en | 0.06741573033707865 |
+| Danish | da | 0.6428571428571429 |
+| Norwegian | no | 0.15306122448979592 |
+| Swedish | sv | 0.09183673469387756 |
+| English | en | 0.061224489795918366 |
 
 ### 37. [Oceania (Sydney, NSW : 1913 - 1915)](http://nla.gov.au/nla.news-title1598)
 
@@ -253,7 +254,7 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Italian | it | 0.97 |
+| Italian | it | 0.98 |
 
 ### 40. [Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)](http://nla.gov.au/nla.news-title314)
 
@@ -272,49 +273,47 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| German | de | 0.9896907216494846 |
+| German | de | 0.99 |
 
 ### 43. [The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)](http://nla.gov.au/nla.news-title1685)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| English | en | 0.8105263157894737 |
-| Yiddish | yi | 0.15789473684210525 |
+| English | en | 0.77 |
+| Hebrew | he | 0.23 |
 
 ### 44. [The Australian Jewish Post (St. Kilda, Vic. : 1966 - 1968)](http://nla.gov.au/nla.news-title1777)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Yiddish | yi | 1.0 |
+| Hebrew | he | 1.0 |
 
 ### 45. [The Chinese Advertiser (Ballarat, Vic. : 1856)](http://nla.gov.au/nla.news-title706)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.5 |
-| English | en | 0.3333333333333333 |
-| Scottish Gaelic | gd | 0.16666666666666666 |
+| Chinese | zh | 0.8 |
+| Latin | la | 0.2 |
 
 ### 46. [The English and Chinese Advertiser (Vic. : 1856 - 1858)](http://nla.gov.au/nla.news-title685)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| English | en | 0.8947368421052632 |
-| Chinese | zh | 0.05263157894736842 |
-| Maltese | mt | 0.05263157894736842 |
+| Chinese | zh | 0.7727272727272727 |
+| Latin | la | 0.22727272727272727 |
 
 ### 47. [The Jewish Post (Melbourne, Vic. : 1949 - 1966)](http://nla.gov.au/nla.news-title1776)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Yiddish | yi | 0.98 |
+| Hebrew | he | 1.0 |
 
 ### 48. [The Jewish Weekly News (Melbourne, Vic. : 1933 - 1935)](http://nla.gov.au/nla.news-title1707)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | English | en | 0.81 |
-| Yiddish | yi | 0.19 |
+| Hebrew | he | 0.19 |
 
 ### 49. [The Voice of Freedom = Elefthera Phoni (Perth, WA : 1956 - 1957)](http://nla.gov.au/nla.news-title1381)
 
@@ -332,13 +331,13 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.94 |
+| Chinese | zh | 1.0 |
 
 ### 52. [Tung Wah Times (Sydney, NSW : 1901 - 1936)](http://nla.gov.au/nla.news-title1184)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Chinese | zh | 0.9263157894736842 |
+| Chinese | zh | 0.99 |
 
 ### 53. [Uniamoci (Sydney, NSW : 1903 - 1904)](http://nla.gov.au/nla.news-title1599)
 
@@ -350,9 +349,9 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Macedonian | mk | 0.40816326530612246 |
-| English | en | 0.35714285714285715 |
-| Bulgarian | bg-Latn | 0.22448979591836735 |
+| Macedonian | mk | 0.41237113402061853 |
+| English | en | 0.3402061855670103 |
+| Bosnian | bs | 0.14432989690721648 |
 
 ### 55. [Vil'na Dumka = Free Thought (Sydney, NSW : 1949 - 1954)](http://nla.gov.au/nla.news-title1593)
 
